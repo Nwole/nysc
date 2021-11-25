@@ -1,0 +1,68 @@
+.contact-us{
+    width: 100%;
+}
+.contact-heading-container{
+    width: 100%;
+   /* padding: 10px; */
+   background-color: green;
+   border-top: 2px solid red;
+}
+
+.contact-heading{
+    width: 80%;
+    margin: auto;
+    font-family: sans-serif;
+    color: white;
+}
+.contact-section{
+    width: 100%;
+    height: 70vh;
+    background-color: #F0F8FF;
+    margin-top: 1rem;
+}
+.contact-info{
+    width: 90%;
+}
+.contact-details{
+    width: 95%;
+    padding: 10px;
+    margin: auto;
+}
+
+.para{
+    padding: 8px;
+    color: black;
+    border-radius: 6px;
+    background-color: 	#8FBC8F;
+}
+.help{
+    text-decoration: none;
+    background-color: #A9A9A9;
+}
+.footer-section{
+    width: 100%;
+    border-top: 2px solid red;
+    background-color: green;
+}
+.footer-details{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.footer h2{
+    text-align: center;
+    color: white !important;
+}
+
+.footer-footer{
+    width: 70%;
+
+    
+}
+.footer-para{
+    color: white;
+}
+

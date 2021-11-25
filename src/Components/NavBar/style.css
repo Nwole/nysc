@@ -1,0 +1,50 @@
+.hero-section{
+    width: 80%;
+    margin: 0 auto;
+}
+.logo-wrapper{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    /* background-color: green; */
+    padding: 10px 0;
+    gap: 5rem;
+    
+}
+.nav_wrapper{
+    width: 50%;
+    margin-left: auto;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    list-style: none;
+}
+.li{
+    color: white;
+}
+.link{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: 	#A9A9A9;
+
+    /* color: black; */
+    /* font-weight: bold; */
+}
+.link:hover{
+    color: orangered;
+}
+h2{
+    color: green;
+}
+.service-humility{
+    color: #A52A2A;
+    line-height: 1rem;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 3rem;
+}

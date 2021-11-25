@@ -1,0 +1,158 @@
+.home_container {
+    width: 100%;
+    background-color: #F5F5F5;
+    margin-top: 1rem;
+    height: 150vh;
+}
+
+.no-active-registration{
+    width: 70%;
+    text-align: center;
+    border: 2px solid #C0C0C0;
+    border-radius: 10px;
+
+
+}
+.no-active-registration p{
+   color: #C0C0C0;
+    font-size: 30px;
+    
+}
+
+.section-details{
+    width: 80%;
+    margin:  0 auto;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-btn{
+    width: 100%;
+    font-size: 20px;
+    border: none;
+    padding: 10px 5px;
+    background-color: #F5F5F5;
+    cursor: pointer;
+}
+
+.login_section{
+    width: 25%;
+}
+
+.remobilize-section{
+    width: 80%;
+    text-align: center;
+    border: 2px solid #C0C0C0;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 2rem;
+}
+.remobilize-section > .application{
+    color: #FF0000;
+    font-size: 30px;
+}
+.apply{
+   line-height: 1.5px;
+}
+
+.verification-section{
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+}
+.choose-verification{
+    display: flex;
+    justify-content: space-between;
+}
+.verify-certificate{
+    width: 30%;
+    height: 20vh;
+    border: 2px solid #C0C0C0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+
+    
+}
+.verify-certificate > .verify-button{
+    width: 50%;
+    font-size: 13px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+    border: none;
+    font-weight: bold;
+    background-color: rgb(133, 203, 133);
+    cursor: pointer;
+
+}
+.guideline{
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+
+}
+.guideline-heading{
+    font-size: 28px;
+    color: 	#708090;
+    line-height: 3px;
+}
+
+
+.requirements{
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+
+}
+
+.foreign-corps-member-requiremnt{
+    display: flex;
+    justify-content: space-between;
+}
+
+.requirement-details{
+    width: 30%;
+    height: 20vh;
+    border: 2px solid #C0C0C0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+.requirment-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.important-info{
+    width: 80%;
+    margin: auto;
+    margin-top: 5rem;
+}
+
+.info-heading{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.check-senate-list{
+    width: 80%;
+    margin: auto;
+    margin-top: 3rem;
+}
+.senate-content{
+    display: flex;
+    justify-content: space-between;
+}
+.senate-list-box{
+    width: 30%;
+    height: 20vh;
+    border: 2px solid #C0C0C0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+
+}

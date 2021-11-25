@@ -1,0 +1,90 @@
+
+.login{
+    width: 100%;
+    min-height: 81.9vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.6;
+    filter: alpha(opacity=40);
+    background-image: url("../../../new-img/nyscmember3.jpg");
+    display: flex; 
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    position:relative;
+}
+.service-humility{
+    color: red;
+    font-weight: bold;
+}
+
+.form-container{
+    background: white;
+    width: 20%;
+    height: 45vh;
+    padding: 20px;
+    border-radius: 10px;
+}
+.form-control{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form-header{
+    width: 100%;
+    padding: 3px;
+    border-radius: 8px;
+    background-color: rgb(81, 152, 10);
+}
+h3{
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.form-control{
+    margin-top: 2rem;
+}
+input[type="textemail"]{
+    display: block;
+    border-radius: 8px;
+    padding: 10px;
+}
+input[type="password"]{
+    display: block;
+    border-radius: 8px;
+    padding: 10px;
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+.btn-btn-resume{
+    display: flex;
+    justify-content: end;
+    margin-top: 1rem;
+}
+.resume{
+    padding: 8px;
+    font-size: 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(81, 152, 10);
+    cursor: pointer;
+}
+
+.nysc-system{
+    color: red;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    font-size: 40px;
+}
+.forgot-password{
+    text-decoration: none;
+    font-weight: bold;
+    color: lightskyblue;
+}
+.footer{
+    width: 100%;
+}

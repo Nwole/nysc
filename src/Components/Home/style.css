@@ -1,0 +1,17 @@
+.home-container{
+    width: 100%;
+    background-color: green;
+    padding: 5px;
+    border-top: 3px solid red;
+    max-block-size: 70px;
+    max-height: 55px;
+
+}
+.welcome{
+    color: white;
+    font-size: 25px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+
