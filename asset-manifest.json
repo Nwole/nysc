@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/http/Nwole-github.io/nysc/static/css/main.7fda832f.chunk.css",
+    "main.js": "/http/Nwole-github.io/nysc/static/js/main.1d487062.chunk.js",
+    "main.js.map": "/http/Nwole-github.io/nysc/static/js/main.1d487062.chunk.js.map",
+    "runtime-main.js": "/http/Nwole-github.io/nysc/static/js/runtime-main.5dd762e3.js",
+    "runtime-main.js.map": "/http/Nwole-github.io/nysc/static/js/runtime-main.5dd762e3.js.map",
+    "static/js/2.1bc24b36.chunk.js": "/http/Nwole-github.io/nysc/static/js/2.1bc24b36.chunk.js",
+    "static/js/2.1bc24b36.chunk.js.map": "/http/Nwole-github.io/nysc/static/js/2.1bc24b36.chunk.js.map",
+    "static/js/3.c5f116f1.chunk.js": "/http/Nwole-github.io/nysc/static/js/3.c5f116f1.chunk.js",
+    "static/js/3.c5f116f1.chunk.js.map": "/http/Nwole-github.io/nysc/static/js/3.c5f116f1.chunk.js.map",
+    "index.html": "/http/Nwole-github.io/nysc/index.html",
+    "static/css/main.7fda832f.chunk.css.map": "/http/Nwole-github.io/nysc/static/css/main.7fda832f.chunk.css.map",
+    "static/js/2.1bc24b36.chunk.js.LICENSE.txt": "/http/Nwole-github.io/nysc/static/js/2.1bc24b36.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/http/Nwole-github.io/nysc/static/media/nyscmember3.e8630c9e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dd762e3.js",
+    "static/js/2.1bc24b36.chunk.js",
+    "static/css/main.7fda832f.chunk.css",
+    "static/js/main.1d487062.chunk.js"
+  ]
+}
